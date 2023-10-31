@@ -44,6 +44,15 @@ nav ul{
     align-items: center;
 }
 
+nav ul li{
+    transition: all 200ms ease-in;
+}
+
+nav ul li:hover{
+    border-bottom: 4px solid #d82626;  
+    color: #d82626;
+}
+
 .nav-icon-container{
     display: flex;
     align-items: center;
