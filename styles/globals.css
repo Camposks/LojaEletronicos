@@ -6,6 +6,7 @@
 
 body{
     font-family: 'arial';
+    overflow-x: hidden;
 }
 
 .header-inner-content{
